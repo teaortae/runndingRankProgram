@@ -1,0 +1,9 @@
+.gradle/
+.kotlin/
+build/
+out/
+*.class
+*.iml
+.DS_Store
+.jdks/
+runner-sheet-input-windows-build-*.zip
